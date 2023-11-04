@@ -87,34 +87,25 @@ Untuk rancangan database-nya adalah sebagai berikut.
 
 ![Login Menu][login-menu]
 
-### Manajemen Data Pelamar
+### Manajemen Produk
 
-![Personal Menu][personal-menu]
+![Manajemen Produk][management-product-menu]
 
-### Manajemen Data Jabatan
+### Manajemen Transaksi Penjualan
 
-![Role Menu][role-menu]
+![Manajemen Transaksi Penjualan][selling-transaction-menu]
 
-### Manajemen Data Potongan
+### Manajemen Transaksi Pembelian
 
-![Deduction Menu][deduction-menu]
+![Manajemen Transaksi Pembelian][buying-transaction-menu]
 
-### Manajemen Data Potongan Setiap Karyawan
+### Laporan Pemasukan
 
-![Deduction Employee Menu][deduction-employee-menu]
+![Laporan Pemasukan][income-report-menu]
 
-### Manajemen Data Absen Setiap Karyawan Karyawan
+### Laporan Pengeluaran
 
-![Absent Menu][absent-menu]
-
-### Laporan Gaji Karyawan
-
-![Report Menu][report-menu]
-![Report Menu][report-menu-2]
-
-### Ganti Password User Aplikasi
-
-![Cahnge Password Menu][change-password-menu]
+![Laporan Pengeluaran][outcome-report-menu]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +121,7 @@ Untuk membuat Aplikasi ini ada beberapa teknologi yang dibutuhkan.
 
 ## Roadmap
 
-- [ ] Ada issue pada JRE saat membuat report.
+- [ ] Laporan dalam bentuk dokumen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -281,14 +272,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [database-schema]: images/database-schema.png
 
 [login-menu]: images/login-menu.png
-[personal-menu]: images/personal-menu.png
-[role-menu]: images/role-menu.png
-[deduction-menu]: images/deduction-menu.png
-[deduction-employee-menu]: images/deduction-employee-menu.png
-[absent-menu]: images/absent-menu.png
-[report-menu]: images/report-menu.png
-[report-menu-2]: images/report-menu-2.png
-[change-password-menu]: images/change-password-menu.png
+[management-product-menu]: images/management-product-menu.png
+[buying-transaction-menu]: images/buying-transaction-menu.png
+[selling-transaction-menu]: images/selling-transaction-menu.png
+[income-report-menu]: images/income-report-menu.png
+[outcome-report-menu]: images/outcome-report-menu.png
 
 [netbeans]: https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white
 [netbeans-url]: https://netbeans.apache.org/
